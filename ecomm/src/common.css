@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    box-sizing: border-box;
+    padding: 0px;
+}
+body {
+    font-family: 'poppins',sans-serif;
+}
+.wrapper {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.header {
+    margin-top: 25px;
+    min-height: 60px;
+}
+.arrange-left {
+    float: left;
+}
+.wid-25 {
+width: 25%;
+}
+.wid-50 {
+width: 50%;
+}
+.wid-75{
+    width: 75%;
+}
+.wid-33 {
+    width: 33%;
+}
+.common-btn {
+    height: 40px;
+    border: 1px solid #ddd;
+    border-radius: 0px;
+    background-color: #fff;
+    min-width: 50px;
+    text-align: center;
+    color: salmon;
+    margin-right: 10px;
+}
+.common-btn span {
+    font-size: 16px;
+    font-weight: 700;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.common-btn i {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.selected-product {
+    text-align: right;
+}
+.next-row {
+    clear: both;
+}
+.list-header {
+    height: 65px;
+    background-color: salmon;
+    
+}
+.list-header h4 {
+display: inline-block;
+margin-left: 40px;
+margin-right: 40px;
+font-weight: 500;
+margin-top: 23px;
+}
+.list-header span {
+    float: right;
+    padding: 28px;
+}
+.wid-40 {
+    width: 40%;
+}
+.margin-right-5 {
+    margin-right: 5%;
+}
